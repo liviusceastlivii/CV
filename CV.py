@@ -1,0 +1,6 @@
+print("Sceastlivîi Liviu")
+print("28.05.2005")
+print("Falești Moldova")
+print("LT Mihai Eminescu Balti")
+print("student profil real")
+print("060155554")
